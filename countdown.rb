@@ -4,5 +4,6 @@ while element < 10
   element -= 1
   puts "HAPPY NEW YEAR!"
 end
+end
 
 countdown(30)
